@@ -1,0 +1,90 @@
+
+ nav a,footer a{
+     color: rgb(255, 255, 255);
+     text-decoration: none;
+     padding: .5cm;
+ }
+ nav a,footer a[href="#"]:hover{
+     color: lightgreen;
+     
+ }
+ h1{
+     padding: 1.2cm;
+   font-size:250%;
+   text-align: center;
+   color: rgb(255, 255, 255);
+   font-weight: 500;
+   font-family: serif;
+   background-color: rgba(2, 129, 2, 0.842);
+   background-size: 100cm;
+   text-shadow: 1px 2px 3px white;
+   margin: 0mm;
+   /* border :  black; */
+}
+nav,footer{
+    background-color: black;
+    padding: .5cm;
+}
+
+h4{
+    color: darkgoldenrod;
+}
+p{
+    color: darkgreen;
+    /* border: 2px solid black; */
+    /* width: 12cm;
+    height: 1cm; */
+}
+ul{
+    color: rgba(255, 0, 0, 0.719);
+    list-style-type: square;
+    list-style-position: outside;
+    /* background-image: url(/pics/Nature/7.PNG); */
+    /* background-size: cm; */
+}
+ul li{
+    /* background-color: black; */
+    margin: .2cm;
+    padding: .2cm;
+    /* list-style-image: url(pics/Nature/7.PNG); */
+    
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+}
+#amit{
+    text-align: center;
+    font-size: .4cm;
+
+}
+
+th{
+    background-color:rgba(12, 28, 59, 0.842);
+    color: white;
+    padding: .5cm;
+    font-family: serif;
+    font-weight: 500;
+    text-shadow: 1px 1px 2px white;
+    
+}
+tr{
+    background-color: rgb(0, 0, 0);
+    color: lightgreen;
+
+}
+td{
+    padding: .5cm;
+    text-align: center;
+}
+table{
+    padding: 1cm;
+    border-collapse: separate;
+}
+div{
+    /* border: 2px solid darkgreen; */
+    /* width: 12cm; */
+    /* height: 10cm; */
+    overflow:auto;
+}
+
